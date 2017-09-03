@@ -1,0 +1,40 @@
+# Translation of Themes - Appointment Red in Turkish
+# This file is distributed under the same license as the Themes - Appointment Red package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-27 19:21:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Appointment Red\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate / business website. Appointment Red theme is a child theme of Appointment theme and is the Red color variation. The theme has several extra templates that make it even more powerful and it supports various locales."
+msgstr "Bir kurumsal / işletme web sitesi oluşturmak için ideal bir İş teması. Appointment Red teması, Appointment temasının alt temasıdır ve kırmızı renk varyasyonudur. Tema, onu daha da güçlendiren birkaç şablonlana sahip ve çeşitli yerel dilleri destekliyor."
+
+#. Theme Name of the plugin/theme
+msgid "Appointment Red"
+msgstr "Appointment Red"
+
+#. Template Name of the plugin/theme
+msgid "Blog-right-sidebar"
+msgstr "Blog-sağ-kenar-çubuğu"
+
+#. Template Name of the plugin/theme
+msgid "Blog-left-sidebar"
+msgstr "Blog-sol-kenar-çubuğu"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/appointment-red-child-version-details-page-1/"
+msgstr "http://webriti.com/appointment-red-child-version-details-page-1/"
